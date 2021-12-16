@@ -2,4 +2,4 @@
 host=review.rdoproject.org
 port=29418
 project=tripleo-downstream-trigger-nested-virt
-defaultbranch=master
+defaultbranch=wallaby
